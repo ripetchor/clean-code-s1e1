@@ -32,7 +32,8 @@
   margin: 0 auto 0;
 }
 
-.task__input--text, .task__label {
+.task__input--text,
+.task__label {
   width: 56%;
   display: inline-block;
   flex-grow: 1;
@@ -118,7 +119,9 @@
   align-items: center;
 }
 
-.task__label, .list__input-checkbox, .list__input-text {
+.task__label,
+.list__input-checkbox,
+.list__input-text {
   vertical-align: middle;
 }
 
